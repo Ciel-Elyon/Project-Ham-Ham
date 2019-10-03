@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{F9E09F19-2117-4097-387F-60C30564A280}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HamsterGraybox/Scripts/FollowCameraScript.cs">
+    <Files>
+      <File FileName="Assets/HamsterGraybox/Scripts/HamsterMovement.cs" Line="145" Column="51" />
+      <File FileName="Assets/BriansHouse/Source/Scripts/Pickupable.cs" Line="12" Column="19" />
+      <File FileName="Assets/HamsterGraybox/Scripts/FollowCameraScript.cs" Line="47" Column="15" />
+      <File FileName="Assets/HamsterGraybox/Scripts/ChangePOV.cs" Line="13" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HamsterPrototype" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BriansHouse" expanded="True">
+                <Node name="Source" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="HamsterGraybox" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="FollowCameraScript.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="219311e0-63dc-4178-a417-f7f72e33a109" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
